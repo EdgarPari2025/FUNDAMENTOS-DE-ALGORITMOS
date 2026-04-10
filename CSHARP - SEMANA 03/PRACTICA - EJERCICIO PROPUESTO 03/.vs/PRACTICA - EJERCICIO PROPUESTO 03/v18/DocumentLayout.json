@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO PROPUESTO 03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5902EFDA-513A-4F8B-BCA1-66257F5FDFA4}|PRACTICA - EJERCICIO PROPUESTO 03.csproj|d:\\$ ing. de software - upn\\2\u00B0 ciclo\\funcamentos de algoritmos\\fundamentos de algoritmos - tareas\\practica\\semana 03\\practica - ejercicio propuesto 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5902EFDA-513A-4F8B-BCA1-66257F5FDFA4}|PRACTICA - EJERCICIO PROPUESTO 03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO PROPUESTO 03\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO PROPUESTO 03\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:56:03.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
