@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5902EFDA-513A-4F8B-BCA1-66257F5FDFA4}|..\\PRACTICA - EJERCICIO PROPUESTO 03\\PRACTICA - EJERCICIO PROPUESTO 03.csproj|d:\\$ ing. de software - upn\\2\u00B0 ciclo\\funcamentos de algoritmos\\fundamentos de algoritmos - tareas\\practica\\semana 03\\practica - ejercicio propuesto 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55370FE5-EEFA-4082-909F-5CE301805C38}|..\\PRACTICA - EJERCICIO PROPUESTO 02\\PRACTICA - EJERCICIO PROPUESTO 02.csproj|d:\\$ ing. de software - upn\\2\u00B0 ciclo\\funcamentos de algoritmos\\fundamentos de algoritmos - tareas\\practica\\semana 03\\practica - ejercicio propuesto 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B217173C-0203-4E30-BCF5-1CEBA984BA9B}|..\\PRACTICA - EJERCICIO PROPUESTO 01\\PRACTICA - EJERCICIO PROPUESTO 01.csproj|d:\\$ ing. de software - upn\\2\u00B0 ciclo\\funcamentos de algoritmos\\fundamentos de algoritmos - tareas\\practica\\semana 03\\practica - ejercicio propuesto 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A2D01E-BBA8-415A-BC2C-1A64F026433E}|..\\PRACTICA - EJERCICIO 05\\PRACTICA - EJERCICIO 05.csproj|d:\\$ ing. de software - upn\\2\u00B0 ciclo\\funcamentos de algoritmos\\fundamentos de algoritmos - tareas\\practica\\semana 03\\practica - ejercicio 05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF13AEC-5D43-437D-8471-A336F0349332}|..\\PRACTICA - EJERCICIO 04\\PRACTICA - EJERCICIO 04.csproj|d:\\$ ing. de software - upn\\2\u00B0 ciclo\\funcamentos de algoritmos\\fundamentos de algoritmos - tareas\\practica\\semana 03\\practica - ejercicio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36197FA6-E2D3-4F8E-A819-C9AEA23BCCA5}|..\\PRACTICA - EJERCICIO 03\\PRACTICA - EJERCICIO 03.csproj|d:\\$ ing. de software - upn\\2\u00B0 ciclo\\funcamentos de algoritmos\\fundamentos de algoritmos - tareas\\practica\\semana 03\\practica - ejercicio 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FD2BBC-1F4E-457F-A3F4-F126C538185B}|..\\PRACTICA - EJERCICIO 02\\PRACTICA - EJERCICIO 02.csproj|d:\\$ ing. de software - upn\\2\u00B0 ciclo\\funcamentos de algoritmos\\fundamentos de algoritmos - tareas\\practica\\semana 03\\practica - ejercicio 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C236EB1-04AD-4663-BF4F-4654DFE5B12B}|PRACTICA - EJERCICIO 01\\PRACTICA - EJERCICIO 01.csproj|d:\\$ ing. de software - upn\\2\u00B0 ciclo\\funcamentos de algoritmos\\fundamentos de algoritmos - tareas\\practica\\semana 03\\practica - ejercicio 01\\practica - ejercicio 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C236EB1-04AD-4663-BF4F-4654DFE5B12B}|PRACTICA - EJERCICIO 01\\PRACTICA - EJERCICIO 01.csproj|solutionrelative:practica - ejercicio 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO PROPUESTO 03\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PRACTICA - EJERCICIO PROPUESTO 03\\Program.cs",
+              "ToolTip": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO PROPUESTO 03\\Program.cs",
+              "RelativeToolTip": "..\\PRACTICA - EJERCICIO PROPUESTO 03\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:49:28.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO PROPUESTO 02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PRACTICA - EJERCICIO PROPUESTO 02\\Program.cs",
+              "ToolTip": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO PROPUESTO 02\\Program.cs",
+              "RelativeToolTip": "..\\PRACTICA - EJERCICIO PROPUESTO 02\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:36:14.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO PROPUESTO 01\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PRACTICA - EJERCICIO PROPUESTO 01\\Program.cs",
+              "ToolTip": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO PROPUESTO 01\\Program.cs",
+              "RelativeToolTip": "..\\PRACTICA - EJERCICIO PROPUESTO 01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:06:25.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO 05\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PRACTICA - EJERCICIO 05\\Program.cs",
+              "ToolTip": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO 05\\Program.cs",
+              "RelativeToolTip": "..\\PRACTICA - EJERCICIO 05\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:24:36.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO 04\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PRACTICA - EJERCICIO 04\\Program.cs",
+              "ToolTip": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO 04\\Program.cs",
+              "RelativeToolTip": "..\\PRACTICA - EJERCICIO 04\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:15:04.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO 03\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PRACTICA - EJERCICIO 03\\Program.cs",
+              "ToolTip": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO 03\\Program.cs",
+              "RelativeToolTip": "..\\PRACTICA - EJERCICIO 03\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:00:12.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO 02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PRACTICA - EJERCICIO 02\\Program.cs",
+              "ToolTip": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO 02\\Program.cs",
+              "RelativeToolTip": "..\\PRACTICA - EJERCICIO 02\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:40:36.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO 01\\PRACTICA - EJERCICIO 01\\Program.cs",
+              "RelativeDocumentMoniker": "PRACTICA - EJERCICIO 01\\Program.cs",
+              "ToolTip": "D:\\$ ING. DE SOFTWARE - UPN\\2\u00B0 CICLO\\FUNCAMENTOS DE ALGORITMOS\\FUNDAMENTOS DE ALGORITMOS - TAREAS\\PRACTICA\\SEMANA 03\\PRACTICA - EJERCICIO 01\\PRACTICA - EJERCICIO 01\\Program.cs",
+              "RelativeToolTip": "PRACTICA - EJERCICIO 01\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:13:01.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
